@@ -1,7 +1,10 @@
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background:olivedrab;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 26px;
+  color: burlywood;
 }
 
 .label {
@@ -16,4 +19,16 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+}
+
+body {
+  background-color: olivedrab;
+}
+
+.burgercol {
+  width: 45%;
+  justify-content: center;
+  align-items: stretch;
+  display: block;
+
 }
